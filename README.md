@@ -1,2 +1,2 @@
 # Bookmark-project
-Create a bookmark using JavaScript
+Create a bookmark manager using JavaScript
